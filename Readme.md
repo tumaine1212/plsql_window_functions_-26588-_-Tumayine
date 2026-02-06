@@ -19,17 +19,60 @@ The goal is to transform raw transactional data into **business intelligence ins
 
 ## 🏢 Business Context
 
-**Industry:** E-Commerce  
-**Department:** Sales, Marketing & Operations Analytics  
+This project is designed to provide insights into customer behavior, sales trends, and inventory management through the use of SQL JOINs and Window Functions. The analysis will help in identifying key performance indicators (KPIs) that drive business success.
 
-### 📊 Data Challenge
-The company operates across **East Africa (Rwanda, Kenya, Uganda, Tanzania)** and needs deeper insight into customer behavior, product performance, and sales trends. Raw transactional data exists, but lacks analytical structure for business decisions.
+---
 
-### 🎯 Expected Outcome
-Deliver **rankings, trends, growth metrics, and customer/product segmentation** to support:
-- Regional marketing strategies
-- Inventory optimization
-- Customer retention and loyalty programs
+## 📊 Data Sources
+
+The data for this project is sourced from a simulated E-Commerce database, which includes tables for customers, orders, products, and sales transactions.
+
+---
+
+## 🔍 Analysis Techniques
+
+The analysis will utilize various SQL techniques, including:
+- INNER JOINs to combine data from multiple tables.
+- OUTER JOINs to include all records from one table and matched records from another.
+- Window Functions to perform calculations across a set of table rows related to the current row.
+
+---
+
+## 📈 Expected Outcomes
+
+By the end of this project, we expect to deliver a comprehensive report that outlines the findings from the data analysis, along with visualizations that illustrate key trends and insights.
+
+---
+
+## 📅 Timeline
+
+The project is expected to be completed by the end of February 2026.
+
+---
+
+## 📚 References
+
+- SQL Documentation
+- PostgreSQL Documentation
+
+---
+
+## 🛠️ Tools Used
+
+- PostgreSQL
+- SQL Workbench
+
+---
+
+## 👥 Team Members
+
+- Tumayine Desire
+
+---
+
+## 📞 Contact Information
+
+For any inquiries, please contact me at: tumayine@example.com
 
 ---
 
@@ -186,14 +229,6 @@ Customer purchasing frequency, product pricing, and regional demand patterns dri
 ✔ All Window Functions executed successfully  
 ✔ Data integrity verified across all tables  
 ![alt text](<Fixed Quick Validation Queries.jpg>) 
-
----
-
-## 📚 References
-
-- PostgreSQL Official Documentation  
-- PostgreSQL Window Functions Guide  
-- SQL Analytics Best Practices  
 
 ---
 
