@@ -232,22 +232,6 @@ Customer purchasing frequency, product pricing, and regional demand patterns dri
 
 ---
 
-## 🧾 Academic Integrity Statement
 
-> **“All sources were properly cited. Implementations and analysis represent original work.  
-> No AI-generated content was copied without attribution or adaptation.”**
-
----
-
-## ✅ Final Checklist
-
-✔ Public GitHub repository  
-✔ Error-free SQL scripts  
-✔ Screenshots included  
-✔ README professionally documented  
-✔ JOINs & Window Functions fully implemented  
-✔ Academic integrity maintained  
-
----
 
 ✨ *“Whoever is faithful in very little is also faithful in much.” — Luke 16:10*
